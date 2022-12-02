@@ -39,6 +39,9 @@ int fib(int a){
 int potato(){
     return 1;
 }
+string onion(){
+    return "piaz";
+}
 
 
 int main(){
